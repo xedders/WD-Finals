@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Delicious+Handrawn&family=Hedvig+Letters+Sans&family=Heebo:wght@500&family=Karla:ital@1&family=Lato&family=Quicksand:wght@600&family=Roboto:wght@300&display=swap');
 
-body {
+.logonav img {
+    width: 50px;
+    height: auto;
+}
+
+    body {
   background-color: #FFFBF5;
 }
+
 
 header {
     background-color: #ffffff;
