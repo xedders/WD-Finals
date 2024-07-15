@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Delicious+Handrawn&family=Hedvig+Letters+Sans&family=Heebo:wght@500&family=Karla:ital@1&family=Lato&family=Quicksand:wght@600&family=Roboto:wght@300&display=swap');
+
+body {
+  background-color: #FFFBF5;
+}
+
+header {
+    background-color: #AEDEFC;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+#title {
+  font-family: Bakersville;
+  font-size:50px;
+  color:#3876BF;
+  text-shadow:2px 1px 2px white;
+}
+
+nav ul {
+    list-style: none;
+  font-family: 'Comfortaa', sans-serif;
+}
+
+nav li {
+    display: inline;
+    margin-right: 30px;
+  line-height: 50px;
+  font-size: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+   transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+nav a:hover {
+  font-size: 23px;
+  background-color:#FAF8F1;
+  color:#96B6C5;
+  border-radius:10px;
+  font-family: 'Hedvig Letters Sans', sans-serif;
+}
+
+h1 {
+  color: #3876BF;
+  text-align: center;
+}
+
+h2 {
+ color: #637A9F;
+  text-align: center;
+}
+
+li {
+  text-align: center;
+  color: #637A9F;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group textarea {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-group textarea {
+  resize: vertical;
+}
+
+button[type="submit"] {
+  width: 200px;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  background-color: #86B6F6;
+  color: white;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #B4D4FF;
+}
