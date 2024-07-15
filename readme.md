@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-The final project consists of my past and most recent project in Web Design.
+The final project consists of my past and most recent projects in Web Design.
 </div>
 
 <br />
@@ -57,7 +57,7 @@ The final project consists of my past and most recent project in Web Design.
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This final project showcases my growth as a web designer in the first year in college, this consists of my other specialties as well as my first and most recent works in Web Design.
 
 Guiding Question:
 - This website serves as a resume, where it highlights my specialties and my works.
