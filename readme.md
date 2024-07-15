@@ -13,14 +13,14 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+The final project consists of my past and most recent project in Web Design.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=xedders/WD-Finals-)
 
 ---
 
@@ -60,17 +60,15 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- This website serves as a resume, where it highlights my specialties and my works.
+- The purpose of this project is to show how much I have learned in this course.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Moving Background
+- Hover Animation
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -111,4 +109,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Codepen | Codepen is where other web designers share their work for other users to incorporate to their own websites. This is where I got my other designs. | https://codepen.io/trending |
+| Pinterest | Pinterest is where I get refences for my other pages. | https://ph.pinterest.com/ |
