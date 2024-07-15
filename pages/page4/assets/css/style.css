@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Delicious+Handrawn&family=Hedvig+Letters+Sans&family=Heebo:wght@500&family=Karla:ital@1&family=Lato&family=Quicksand:wght@600&family=Roboto:wght@300&display=swap');
 
-.logonav{
-    width: 40px;
-    height: 40px;
-}
-
-
 body {
   background-color: #FFFBF5;
 }
@@ -26,7 +20,7 @@ header {
 
 nav ul {
     list-style: none;
-  font-family: 'Comfortaa', sans-serif;
+  font-family: 'Strait', sans-serif;
 }
 
 nav li {
@@ -48,7 +42,7 @@ nav a:hover {
   background-color:#000000;
   color:#2e2e2e;
   border-radius:10px;
-  font-family: 'Hedvig Letters Sans', sans-serif;
+  font-family: 'Strait', sans-serif;
 }
 
 h1 {
