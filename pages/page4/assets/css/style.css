@@ -398,74 +398,63 @@ height: 100%;
   font-weight: 300;
   src: local('Titillium WebLight'), local('TitilliumWeb-Light'), url(http://themes.googleusercontent.com/static/fonts/titilliumweb/v2/anMUvcNT0H1YN4FII8wpr24bNCNEoFTpS2BTjF6FB5E.woff) format('woff');
 }
-.design4-animations {
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-    }
-  
-    footer {
-      background-color: #1a1a1a;
-      color: #fff;
-      text-align: center;
-      padding: 20px 0;
-    }
-  
-    .footer-content {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: column;
-      margin-bottom: 10px;
-    }
-  
-    .brand-logo {
-      font-size: 24px;
-      font-weight: bold;
-      margin-bottom: 10px;
-      transition: transform 0.3s ease;
-    }
-  
-    .brand-logo:hover {
-      transform: scale(1.2);
-    }
-  
-    .social-icons {
-      display: flex;
-      justify-content: center;
-      gap: 15px;
-    }
-  
-    .social-icons .icon {
-      width: 24px;
-      height: 24px;
-      background-size: cover;
-      transition: transform 0.3s ease, filter 0.3s ease;
-    }
-  
-    .social-icons .icon.twitter {
-      background-image: url(../img/twitter.png);
-    }
-  
-    .social-icons .icon.facebook {
-      background-image: url(../img/facebook.png);
-    }
-  
-    .social-icons .icon.instagram {
-      background-image: url(../img/insta.png);
-    }
-  
-    .social-icons .icon:hover {
-      transform: scale(1.2);
-      filter: brightness(1.2);
-    }
-  
-    .footer-bottom {
-      font-size: 14px;
-      transition: font-size 0.3s ease;
-    }
-  
-    .footer-bottom:hover {
-      font-size: 16px;
-    }
+html, body {
+    height: 100%;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  .container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  .footer {
+    margin-top: auto;
+    background-color: #1a1a1a;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+  }
+  .footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  .brand-logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    transition: transform 0.3s ease;
+  }
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  .social-icons .icon {
+    width: 24px;
+    height: 24px;
+    background-size: cover;
+    transition: transform 0.3s ease, filter 0.3s ease;
+  }
+  .social-icons .icon.twitter {
+    background-image: url(../img/twitter.png);
+  }
+  .social-icons .icon.facebook {
+    background-image: url(../img/facebook.png);
+  }
+  .social-icons .icon.instagram {
+    background-image: url(../img/insta.png);
+  }
+  .footer-bottom {
+    font-size: 14px;
+    transition: font-size 0.3s ease;
+  }
+  .footer-bottom:hover {
+    font-size: 16px;
   }
