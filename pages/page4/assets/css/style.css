@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #AEDEFC;
+    background-color: #ffffff;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -14,7 +14,7 @@ header {
 #title {
   font-family: Bakersville;
   font-size:50px;
-  color:#3876BF;
+  color:#2e2e2e;
   text-shadow:2px 1px 2px white;
 }
 
@@ -40,24 +40,24 @@ nav a {
 nav a:hover {
   font-size: 23px;
   background-color:#FAF8F1;
-  color:#96B6C5;
+  color:#2e2e2e;
   border-radius:10px;
   font-family: 'Hedvig Letters Sans', sans-serif;
 }
 
 h1 {
-  color: #3876BF;
+  color: #000000;
   text-align: center;
 }
 
 h2 {
- color: #637A9F;
+ color: #2e2e2e;
   text-align: center;
 }
 
 li {
   text-align: center;
-  color: #637A9F;
+  color: #2e2e2e;
 }
 
 .form-group {
@@ -89,11 +89,11 @@ button[type="submit"] {
   font-size: 18px;
   border: none;
   border-radius: 5px;
-  background-color: #86B6F6;
+  background-color: #2e2e2e;
   color: white;
   cursor: pointer;
 }
 
 button[type="submit"]:hover {
-  background-color: #B4D4FF;
+  background-color: #2e2e2e;
 }
